@@ -1,4 +1,0 @@
-parcialCine121.App
-parcialCine121.ParcialCine121
-ParcialCine121
-Main
